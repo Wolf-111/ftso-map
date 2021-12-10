@@ -1,0 +1,26 @@
+{
+  "name": "ftso-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolf-111/ftso-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolf-111/ftso-map/issues"
+  },
+  "homepage": "https://github.com/Wolf-111/ftso-map#readme",
+  "dependencies": {
+    "csv-stringify": "^6.0.4",
+    "ethereumjs-testrpc": "^6.0.3",
+    "export-to-csv": "^0.2.1",
+    "json2csv": "^5.0.6",
+    "web3": "^1.6.1"
+  }
+}

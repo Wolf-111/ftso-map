@@ -1,0 +1,402 @@
+[
+    {
+        "address": "0x2d7bf53ED6117aD1DCD6416d460481522a16aFdf",
+        "votePower": "227152338.306644479391111444"
+    },
+    {
+        "address": "0x6d323e71E141cE2d7b752313C8A654a9C9d1b377",
+        "votePower": "54923333.326530338690470659"
+    },
+    {
+        "address": "0xBF61Db1CDb43d196309824473fA82E5B17581159",
+        "votePower": "340488566.716181493839238455"
+    },
+    {
+        "address": "0x69141E890F3a79cd2CFf552c0B71508bE23712dC",
+        "votePower": "144235262.795266814165783062"
+    },
+    {
+        "address": "0x4ed9e5b82CE66311Ac2230D2FCCc5202D7B8c083",
+        "votePower": "122824876.512426115905282707"
+    },
+    {
+        "address": "0x010a16c53F33E4d93892f00897965578b55a8CFC",
+        "votePower": "58334965.197544027740168564"
+    },
+    {
+        "address": "0x499017ADB21D6f70480E4E6224cf4144071C1461",
+        "votePower": "74270839.150234002472921845"
+    },
+    {
+        "address": "0x53CAEDDA4339eD74272ECfEF85b657dEf18fA2e4",
+        "votePower": "103236918.817721700902980866"
+    },
+    {
+        "address": "0x939789ed3D07A80da886A3E3017d665cBb5591dC",
+        "votePower": "112434569.64504795745461819"
+    },
+    {
+        "address": "0x62d6116d6A139F2D402e8d8E30BAaF5790542801",
+        "votePower": "47717147.426978755459654197"
+    },
+    {
+        "address": "0x9565d813a3a0CEa62B3bDB9A4e236dCb5910c4f0",
+        "votePower": "48131040.008621564573275437"
+    },
+    {
+        "address": "0x7394923453FC2F606cfb4D0ea1A5438BB8260D08",
+        "votePower": "48916525.915951655030696332"
+    },
+    {
+        "address": "0xB9b7355f5b71CEE345311921D247b1D2bA5cFe90",
+        "votePower": "52354080.605660769639732251"
+    },
+    {
+        "address": "0xc9AC8F034d295962A6a975b717B691437605Bbb6",
+        "votePower": "50616264.802325000560075219"
+    },
+    {
+        "address": "0xb53D69B2519aC9F6D65cff8e7824Bf09F7064D61",
+        "votePower": "48697185.504975382471962737"
+    },
+    {
+        "address": "0x999994131c42Df62EB16433a27E8d113b4F195b5",
+        "votePower": "1227.41645011071165"
+    },
+    {
+        "address": "0x6fF5947eF89754682aD765b79C11f33452756D0B",
+        "votePower": "442222558.92447730557075034"
+    },
+    {
+        "address": "0xa800F0bE55e7b694e71641e717b3D4e6F5076E53",
+        "votePower": "0"
+    },
+    {
+        "address": "0x7c3579aB3E647395c96a1EfC98aF9A31C5Ecc294",
+        "votePower": "0"
+    },
+    {
+        "address": "0xbd4aD52B5C2dBeEF1c3dE8ac4f7daFC9cD4E5cc0",
+        "votePower": "667200"
+    },
+    {
+        "address": "0xCa60cd408A5E447897258cDB1F699478c71Cc55E",
+        "votePower": "89808330.940200915318283804"
+    },
+    {
+        "address": "0x33DDAe234e403789954CD792e1feBdBE2466ADC2",
+        "votePower": "47046717.772022028607390896"
+    },
+    {
+        "address": "0xDDEF7e54a9f72D9Fc0a281b42F15A22B30681da5",
+        "votePower": "47035373.665335487525"
+    },
+    {
+        "address": "0x3dDd4A16b549280F67314f0e66b96B3DBF16DdcB",
+        "votePower": "127.8222570662725"
+    },
+    {
+        "address": "0x3D9f66b927f77824f6e98Ad4617D2AB6076DC164",
+        "votePower": "0.000000000000000003"
+    },
+    {
+        "address": "0x92D6c2E99d5959F2e9c0a7aba5149D8A5ef22f23",
+        "votePower": "149910380.998971770911884811"
+    },
+    {
+        "address": "0x462A18A1c8Aae880be077e71b1cc208d32C31694",
+        "votePower": "0"
+    },
+    {
+        "address": "0x0FA72D3912d1C530AB1f6a8A9fB61C672947E964",
+        "votePower": "47817166.721263225382479708"
+    },
+    {
+        "address": "0x819eaB111BD9A6E595187A914240529D2EFfF21f",
+        "votePower": "47304959.6440908"
+    },
+    {
+        "address": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72",
+        "votePower": "47629724.288120101348829239"
+    },
+    {
+        "address": "0x4dcD94b32C008877945AB79980FC5f3Ff0eaD067",
+        "votePower": "0"
+    },
+    {
+        "address": "0x285430390a72Ce038f6e54BF10f24B94A550474f",
+        "votePower": "47028163.6300084722175"
+    },
+    {
+        "address": "0x17fABA2995351176F648219A5a86921F9eD51A31",
+        "votePower": "20188.06083531831504587"
+    },
+    {
+        "address": "0x153aD30381b11DCE62f349c97a54c2a58956B992",
+        "votePower": "54866556.802287702609708318"
+    },
+    {
+        "address": "0x1B00870092a929D160492daf8E734b4bCA033266",
+        "votePower": "62169454.43529242947316131"
+    },
+    {
+        "address": "0xe60784D1c661a8D8eE19b442999bB71279F0A91f",
+        "votePower": "54898453.429150339509044956"
+    },
+    {
+        "address": "0x4F7f5F8eF4a3CC11f94e875393Ee909Eb5f824ea",
+        "votePower": "47612168.682804082552733075"
+    },
+    {
+        "address": "0x680b8F3F028532fFb5c4b6F95A6338869650cE5C",
+        "votePower": "0"
+    },
+    {
+        "address": "0x4fE889F450EcA4decd8a65B6B6eC5b7Db8EaB12E",
+        "votePower": "47025181.243437"
+    },
+    {
+        "address": "0xCD3f36877Ee4e44668a985A6e75dbf39D8d079C5",
+        "votePower": "0"
+    },
+    {
+        "address": "0x888888888888a6963c4ba6C76fa6936567cf803E",
+        "votePower": "0"
+    },
+    {
+        "address": "0x8888888888315960eeEA1ddaBDE4D2Cbc62cDeC3",
+        "votePower": "0"
+    },
+    {
+        "address": "0x8F6Fa661e16Aa253EC3069f50771444024F03524",
+        "votePower": "0"
+    },
+    {
+        "address": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+        "votePower": "47358415.036882375375353064"
+    },
+    {
+        "address": "0x2De2C741658f0Ae7b2DdD8EAdD179911564af119",
+        "votePower": "47021014.15"
+    },
+    {
+        "address": "0x7a0A944C35e14687D2ed0C525295E54B65856d82",
+        "votePower": "0"
+    },
+    {
+        "address": "0xa16E1DCC36509f685D608594B1ed5D7D0891f781",
+        "votePower": "680.897058043260819745"
+    },
+    {
+        "address": "0xa467ACeE8127C55Fb1f4d3b863EA5b0C4F599b9b",
+        "votePower": "47199759.481236870970139606"
+    },
+    {
+        "address": "0xfB9197720329a80191BA140844E96DCcAD149014",
+        "votePower": "47363330.859771864669765955"
+    },
+    {
+        "address": "0x59209585d87F5400209E93b18AF513Fa2f6cdeA9",
+        "votePower": "0"
+    },
+    {
+        "address": "0xE76Bc13136338f27363425FcbCB36967B0540176",
+        "votePower": "47024353.18813739343"
+    },
+    {
+        "address": "0x633A6233b469CF41edd3a7B25223b9263a629aDD",
+        "votePower": "0"
+    },
+    {
+        "address": "0xD9200CC419BDe28B169AD8c904d2687a15A4Bf9F",
+        "votePower": "47630492.787963782502639381"
+    },
+    {
+        "address": "0xaF31CA175bbE0C6dD667c8403B65a33b28238afa",
+        "votePower": "47076405.321533607454091631"
+    },
+    {
+        "address": "0x8888888830A0fddAaa09CCD891fF5D35fb45D2A6",
+        "votePower": "47006104.25"
+    },
+    {
+        "address": "0x888888888880afFC5C29184B5e7F09732880C1B6",
+        "votePower": "0"
+    },
+    {
+        "address": "0x0E9292E651546743Fbc254888749945921BC8A67",
+        "votePower": "8"
+    },
+    {
+        "address": "0x72af2906c0CCB6b3c4977EB8D9f97A39F08AEBAE",
+        "votePower": "0"
+    },
+    {
+        "address": "0xF8b92bE7ffB021B074F8621765D72dA4C8862749",
+        "votePower": "47002819.150000000000524288"
+    },
+    {
+        "address": "0x821BDE578955B35F9F2C9022268E5BC748994f71",
+        "votePower": "47015022.399779014375"
+    },
+    {
+        "address": "0xeceFe81ff88E5609704697De20Cc36990b76d633",
+        "votePower": "47081425.705743845"
+    },
+    {
+        "address": "0x6d933Fc47edCBB0f9F4b5469D468dCA1c3cB9440",
+        "votePower": "0"
+    },
+    {
+        "address": "0xA3e49a1F2393Bf699157a4e096C3c60cC479EEb5",
+        "votePower": "0"
+    },
+    {
+        "address": "0x6D457FbA88729c683015a308232b805C857e0EAe",
+        "votePower": "44865.656494242713833381"
+    },
+    {
+        "address": "0xAD4cbB6263A1d28d7c25F7004174eA69f9C749Af",
+        "votePower": "50"
+    },
+    {
+        "address": "0x664e070592063bFE5072F0aC25C6C11e5ccF9928",
+        "votePower": "47000018"
+    },
+    {
+        "address": "0x2d3bdE536ad297f2EA74965f02C9E42f4780fB6A",
+        "votePower": "13404.436816533055409108"
+    },
+    {
+        "address": "0x19A33caD2d311830550B41165d5faBf578347f3A",
+        "votePower": "350"
+    },
+    {
+        "address": "0xc783df8a850f42e7F7e57013759C285caa701eB6",
+        "votePower": "0"
+    },
+    {
+        "address": "0x0438173837B6e4Ae11C724Ae06A128c4B9f0EdF2",
+        "votePower": "47112087.460261725371855055"
+    },
+    {
+        "address": "0x51ae845e20A8B55d954Dd321C05dbcA81B97A0e3",
+        "votePower": "0"
+    },
+    {
+        "address": "0xf45e6102E702A95f633D1D914f6FB5f0cA344E80",
+        "votePower": "32027"
+    },
+    {
+        "address": "0xa04Ca1343BC8eB3e1cdc7760Ed8572929219E46b",
+        "votePower": "0"
+    },
+    {
+        "address": "0x4c97f55d2Ed9C84ECc4Db836d5Fc4F191deA30aE",
+        "votePower": "69626.86951803670183"
+    },
+    {
+        "address": "0xc018B27D58acB91964CD66355C0D791D76422740",
+        "votePower": "55.743401088105806075"
+    },
+    {
+        "address": "0x57981DC5F7B3d004de5B912acB191Ce64C1dD99c",
+        "votePower": "56.546684775"
+    },
+    {
+        "address": "0x08Eb910E9288E5C6baF6e1a74D5D1D23284360a4",
+        "votePower": "47000053.224570476000004"
+    },
+    {
+        "address": "0x3012c799565010C3b090D252839a3D24f3b766bE",
+        "votePower": "1108852.484364600226913927"
+    },
+    {
+        "address": "0x32fE8AC862453DC1B8a390CD3AF821b4FA6fF39D",
+        "votePower": "16402.704611777616160537"
+    },
+    {
+        "address": "0xEF4ef2f3B8C69282846a98341095baa018247553",
+        "votePower": "47449.7529308504832"
+    },
+    {
+        "address": "0xE40a33E470AB6F2681156AB5E43DA033BA724761",
+        "votePower": "0"
+    },
+    {
+        "address": "0xDB17aa86F8815be2884629fD956D11423A31ECD2",
+        "votePower": "0"
+    },
+    {
+        "address": "0x5f3C5991De3F0713715a733eE125785D516cEb16",
+        "votePower": "47692263.148937852110394504"
+    },
+    {
+        "address": "0x93c9063987536ac1CaC0F3e7153893AC96346528",
+        "votePower": "0"
+    },
+    {
+        "address": "0x295B5B9425A48ea0A34bDDA5a31e547aD9A9C5E0",
+        "votePower": "555"
+    },
+    {
+        "address": "0x888888888e8E0bf7227eAFABF9F5843124c92F5a",
+        "votePower": "0"
+    },
+    {
+        "address": "0xadAfD4c7BA71f6b06c2bBaF108b93058CB7117A0",
+        "votePower": "0"
+    },
+    {
+        "address": "0x03e8d670cf8A8df175bEA62a9399302E96b42dbD",
+        "votePower": "47000458.65"
+    },
+    {
+        "address": "0x2b1b6Fc1A9d73494A05E28607A190d59952e03D8",
+        "votePower": "3000"
+    },
+    {
+        "address": "0xBdE6d1078BA0aB9fB71b0912b4372c94CacC583f",
+        "votePower": "50"
+    },
+    {
+        "address": "0x14d699c1d61d54a0390671B07B2b6f8C0Bf36275",
+        "votePower": "33762239.744589830890288806"
+    },
+    {
+        "address": "0x833DDe54A28a3070A086Cc8919BeAa7a0134DE46",
+        "votePower": "4000"
+    },
+    {
+        "address": "0x42F8e2ff0d32aEf22Abcebf7724aC1D466b1A81f",
+        "votePower": "0"
+    },
+    {
+        "address": "0x382881466efe10AAdb07b431ba748fbA050A0332",
+        "votePower": "0"
+    },
+    {
+        "address": "0x92Ce19EcA516BD4CCd9EA42039A8a72D9601E5Bf",
+        "votePower": "0"
+    },
+    {
+        "address": "0x74C33045718B3B0dF012a738Cbf1Bb70bd2D4D9C",
+        "votePower": "0"
+    },
+    {
+        "address": "0x6123Bc83ABF5BCF3b1f3A10BeAC6DddD26f0DebA",
+        "votePower": "0"
+    },
+    {
+        "address": "0x14aF1ecc4198A7437A9c24240063A63B05DdD848",
+        "votePower": "0"
+    },
+    {
+        "address": "0x123458C3db9e403e4Ce9861ca9EFd31129EeCEC0",
+        "votePower": "0"
+    },
+    {
+        "address": "0x36a8F3352C3537495F82E0E19926E34a22a01DCB",
+        "votePower": "0"
+    }
+]
